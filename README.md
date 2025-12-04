@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm George Moysiadis</h1>
 <h3 align="center">A student of Computer Science (and developer 🤞) from Greece</h3><br>
-# 💫 About Me:
+💫 About Me:
 🌐 Passionate about full-stack development  <br>🧱 Strong understanding of frontend and backend architecture  <br>🤝 Team-oriented mindset with leadership experience  <br>📍 Based in Thessaloniki, Greece
 
 
